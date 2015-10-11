@@ -1,4 +1,3 @@
-#![feature(trace_macros)]
 pub mod signals {
     extern crate libc;
     use std::os;
